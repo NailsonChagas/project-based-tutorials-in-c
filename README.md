@@ -52,8 +52,8 @@ A list of tutorials that work towards the making of small to large projects in C
 
 ## Game Development
 
-* [Astroids Clone](https://gtk.dashgl.com/?folder=Astroids)
-* [Brickout Clone](https://gtk.dashgl.com/?folder=Brickout)
+* [Astroids Clone](https://gtk.dashgl.com/Astroids/)
+* [Brickout Clone](https://gtk.dashgl.com/Brickout/)
 * [Chess Engine In C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) `video`
 * [Coding A Sudoku Solver in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) `video`
 * [Coding a Rogue/Nethack RPG in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) `video`
@@ -66,7 +66,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [How to Program an NES game in C](https://nesdoug.com/)
 * [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html) `in-progress`
 * [Implementing Solitaire in C](https://jborza.github.io/games/2020/07/12/solitaire-cli.html)
-* [Invaders Clone](https://gtk.dashgl.com/?folder=Invaders)
+* [Invaders Clone](https://gtk.dashgl.com/Invaders/)
 * [Learn How To Develop Your Own GameBoy Games](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo) `video` `in-progress`
 * [Learn Video Game Programming in C](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) `video`
 * [Let's Make: Dangerous Dave](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) `video`
