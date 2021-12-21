@@ -176,7 +176,7 @@ A list of tutorials that work towards the making of small to large projects in C
    * [Part 1](https://myram.xyz/c-blockchain-implementation-1/)
    * [Part 2](https://myram.xyz/c-blockchain-implementation-2/)
 * [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
-* [How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/ffmpeg.html)
+* [How to Write a Video Player in Less Than 1000 Lines](http://dranger.com/ffmpeg/ffmpeg.html) `abandoned`
 * [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) `in-progress`
 * [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
 * [Write BigInt Calculator in C](https://www.hanshq.net/bigint.html)
