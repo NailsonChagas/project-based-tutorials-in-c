@@ -28,7 +28,7 @@ A list of tutorials that work towards the making of small to large projects in C
 
 ## Computer Networking
 
-* [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/html/multi/index.html) `book`
+* [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html//index.html) `book`
 * [Concurrent Servers](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
 * [HTTP Server: Everything you need to know to Build a simple HTTP server from scratch](https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratch-d1ef8945e4fa)
 * Let's code a TCP/IP stack
@@ -52,8 +52,8 @@ A list of tutorials that work towards the making of small to large projects in C
 
 ## Game Development
 
-* [Astroids Clone](https://gtk.dashgl.com/?folder=Astroids)
-* [Brickout Clone](https://gtk.dashgl.com/?folder=Brickout)
+* [Astroids Clone](https://gtk.dashgl.com/Astroids/)
+* [Brickout Clone](https://gtk.dashgl.com/Brickout/)
 * [Chess Engine In C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) `video`
 * [Coding A Sudoku Solver in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) `video`
 * [Coding a Rogue/Nethack RPG in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) `video`
@@ -65,8 +65,8 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Hangman](https://www.youtube.com/playlist?list=PLZ1QII7yudbd2ZHYSEWrSddsvD5PW_r5O) `video`
 * [How to Program an NES game in C](https://nesdoug.com/)
 * [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html) `in-progress`
-* [Implementing Solitaire in C](https://jborza.github.io/games/2020/07/12/solitaire-cli.html)
-* [Invaders Clone](https://gtk.dashgl.com/?folder=Invaders)
+* [Implementing Solitaire in C](https://jborza.com/post/2020-07-12-solitaire-cli/)
+* [Invaders Clone](https://gtk.dashgl.com/Invaders/)
 * [Learn How To Develop Your Own GameBoy Games](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo) `video` `in-progress`
 * [Learn Video Game Programming in C](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) `video`
 * [Let's Make: Dangerous Dave](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) `video`
@@ -117,7 +117,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Write a Simple Memory Allocator](https://arjunsreedharan.org/post/148675821737/write-a-simple-memory-allocator)
 * [Write a System Call](https://brennan.io/2016/11/14/kernel-dev-ep3/)
 * [Writing a FUSE Filesystem](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
-* [Writing a shell in C](https://danishprakash.github.io/2018/01/15/write-a-shell.html)
+* [Writing a shell in C](https://danishpraka.sh/2018/01/15/write-a-shell.html)
 * Writing a Unix Shell
    * [Part 1](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1)
    * [Part 2](https://indradhanush.github.io/blog/writing-a-unix-shell-part-2)
@@ -129,9 +129,9 @@ A list of tutorials that work towards the making of small to large projects in C
 * [A Regular Expression Matcher](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
 * [A Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html)
 * [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
-* [Build Your Own Lisp](http://www.buildyourownlisp.com/) `book`
+* [Build Your Own Lisp](https://www.buildyourownlisp.com/) `book`
 * [Compiler Design in C](https://holub.com/goodies/compiler/compilerDesignInC.pdf) `book`
-* [Crafting Interpreters](http://www.craftinginterpreters.com/) `book` *Chapters 14-30*
+* [Crafting Interpreters](https://www.craftinginterpreters.com/) `book` *Chapters 14-30*
 * [Let's Build a Compiler: A C & x86 version](https://github.com/lotabout/Let-s-build-a-compiler)
 * Write a C Interpreter
     * [Part 0 - Preface](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/0-Preface.md)
