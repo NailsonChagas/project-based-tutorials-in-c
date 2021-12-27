@@ -58,9 +58,6 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Coding A Sudoku Solver in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) `video`
 * [Coding a Rogue/Nethack RPG in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) `video`
 * [Create a Game Loop using C and SDL](https://www.udemy.com/course/game-loop-c-sdl/) `course`
-* [Creating a 2D platformer](https://www.parallelrealities.co.uk/tutorials/#ppp)
-* [Creating a 2D shoot 'em up](https://www.parallelrealities.co.uk/tutorials/#shooter)
-* [Creating a 2D top-down shooter](https://www.parallelrealities.co.uk/tutorials/#bad)
 * [Handmade Hero](https://handmadehero.org/) `video` `in-progress` *C/C++*
 * [Hangman](https://www.youtube.com/playlist?list=PLZ1QII7yudbd2ZHYSEWrSddsvD5PW_r5O) `video`
 * [How to Program an NES game in C](https://nesdoug.com/)
@@ -73,7 +70,20 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Making a game in C from scratch](https://www.youtube.com/playlist?list=PL7Ej6SUky1357r-Lqf_nogZWHssXP-hvH) `video`
 * [Making a Video Game from Scratch in C](https://www.youtube.com/playlist?list=PLlaINRtydtNWuRfd4Ra3KeD6L9FP_tDE7) `video` `in-progress`
 * [On Tetris and Reimplementation](https://brennan.io/2015/06/12/tetris-reimplementation/)
-* [SDL 2 Isometric Game Tutorial](https://www.youtube.com/playlist?list=PL6Ikt4l3NbVjb7WR-eTgjOBMNCn7f3u7x) `video` `in-progress`
+* * SDL2 Game Tutorials
+    * [Creating a 2D platformer](https://www.parallelrealities.co.uk/tutorials/#ppp)
+    * [Creating a 2D shoot 'em up](https://www.parallelrealities.co.uk/tutorials/#shooter)
+    * [Creating a 2D top-down shooter](https://www.parallelrealities.co.uk/tutorials/#bad)
+    * [Creating a Sprite Atlas](https://www.parallelrealities.co.uk/tutorials/#atlas)
+    * [Working with TTF Fonts](https://www.parallelrealities.co.uk/tutorials/#ttf)
+    * [Creating a Simple 2D Adventure Game](https://www.parallelrealities.co.uk/tutorials/#adventure)
+    * [Creating a Basic Widget System](https://www.parallelrealities.co.uk/tutorials/#widgets)
+    * [Creating a 2D Vertical Shoot'em Up Game](https://www.parallelrealities.co.uk/tutorials/#shooter2)
+    * [Creating a 2D Run and Gun Game](https://www.parallelrealities.co.uk/tutorials/#gunner)
+    * [Creating a Roguelike Game](https://www.parallelrealities.co.uk/tutorials/#rogue)
+    * [Creating a Lookup System](https://www.parallelrealities.co.uk/tutorials/#lookups)
+    * [Creating a In-game Achievement System](https://www.parallelrealities.co.uk/tutorials/#medals)
+* [SDL 2 Isometric Game Tutorial](https://www.youtube.com/playlist?list=PL6Ikt4l3NbVjb7WR-eTgjOBMNCn7f3u7x) `video`
 * [Simple Tic Tac Toe in C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc7_ZgXA-gIXmME41Rs2GP5) `video`
 * Text Adventure `video` `in-progress`
     * [Episode 1](https://youtu.be/J_Igbh0RH8c)
