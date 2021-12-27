@@ -70,7 +70,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Making a game in C from scratch](https://www.youtube.com/playlist?list=PL7Ej6SUky1357r-Lqf_nogZWHssXP-hvH) `video`
 * [Making a Video Game from Scratch in C](https://www.youtube.com/playlist?list=PLlaINRtydtNWuRfd4Ra3KeD6L9FP_tDE7) `video` `in-progress`
 * [On Tetris and Reimplementation](https://brennan.io/2015/06/12/tetris-reimplementation/)
-* * SDL2 Game Tutorials
+* SDL2 Game Tutorials
     * [Creating a 2D platformer](https://www.parallelrealities.co.uk/tutorials/#ppp)
     * [Creating a 2D shoot 'em up](https://www.parallelrealities.co.uk/tutorials/#shooter)
     * [Creating a 2D top-down shooter](https://www.parallelrealities.co.uk/tutorials/#bad)
