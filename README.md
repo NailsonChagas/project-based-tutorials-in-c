@@ -1,6 +1,6 @@
 # Project Based Tutorials in C
 
-A list of tutorials that work towards the making of small to large projects in C.
+A list of tutorials that work towards the making of a complete project in C.
 
 ## Table of Contents
 
@@ -58,7 +58,17 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Coding A Sudoku Solver in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) `video`
 * [Coding a Rogue/Nethack RPG in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) `video`
 * [Create a Game Loop using C and SDL](https://www.udemy.com/course/game-loop-c-sdl/) `course`
-* [Handmade Hero](https://handmadehero.org/) `video` `in-progress` *C/C++*
+* Embedded Game Programming
+    * [Part 0: Motivation](https://austinmorlan.com/posts/embedded_game_programming_0/) 
+    * [Part 1: Build System](https://austinmorlan.com/posts/embedded_game_programming_1/)
+    * [Part 2: Input](https://austinmorlan.com/posts/embedded_game_programming_2/)
+    * [Part 3: Display](https://austinmorlan.com/posts/embedded_game_programming_3/)
+    * [Part 4: Storage](https://austinmorlan.com/posts/embedded_game_programming_4/)
+    * [Part 5: Battery](https://austinmorlan.com/posts/embedded_game_programming_5/)
+    * [Part 6: Audio](https://austinmorlan.com/posts/embedded_game_programming_6/)
+    * [Part 7: Text](https://austinmorlan.com/posts/embedded_game_programming_7/)
+    * [Part 7: Tile System](https://austinmorlan.com/posts/embedded_game_programming_8/)
+* [Handmade Hero](https://handmadehero.org/) `video` `in-progress` (C/C++)
 * [Hangman](https://www.youtube.com/playlist?list=PLZ1QII7yudbd2ZHYSEWrSddsvD5PW_r5O) `video`
 * [How to Program an NES game in C](https://nesdoug.com/)
 * [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html) `in-progress`
@@ -67,6 +77,11 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Learn How To Develop Your Own GameBoy Games](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo) `video` `in-progress`
 * [Learn Video Game Programming in C](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) `video`
 * [Let's Make: Dangerous Dave](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) `video`
+* Let's make Tetris with SDL `video` `abandoned`
+    * [Part 1 - Linking with SDL](https://www.youtube.com/watch?v=AHp6CdCx058)
+    * [Part 2 - Creating a Window](https://www.youtube.com/watch?v=INhX23hkcM8)
+    * [Part 3 - Creating the Renderer](https://www.youtube.com/watch?v=DIOVD-wEzDU)
+    * [Part 4 - Drawing a board](https://www.youtube.com/watch?v=m69YNzFgfkw)
 * [Making a game in C from scratch](https://www.youtube.com/playlist?list=PL7Ej6SUky1357r-Lqf_nogZWHssXP-hvH) `video`
 * [Making a Video Game from Scratch in C](https://www.youtube.com/playlist?list=PLlaINRtydtNWuRfd4Ra3KeD6L9FP_tDE7) `video` `in-progress`
 * [On Tetris and Reimplementation](https://brennan.io/2015/06/12/tetris-reimplementation/)
@@ -85,8 +100,14 @@ A list of tutorials that work towards the making of small to large projects in C
     * [Creating a In-game Achievement System](https://www.parallelrealities.co.uk/tutorials/#medals)
 * [SDL 2 Isometric Game Tutorial](https://www.youtube.com/playlist?list=PL6Ikt4l3NbVjb7WR-eTgjOBMNCn7f3u7x) `video`
 * [Simple Tic Tac Toe in C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc7_ZgXA-gIXmME41Rs2GP5) `video`
-* Text Adventure `video` `in-progress`
-    * [Episode 1](https://youtu.be/J_Igbh0RH8c)
+* Space Invaders from Scratch (C/C++)
+    * [Part 1](http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html)
+    * [Part 2](http://nicktasios.nl/posts/space-invaders-from-scratch-part-2.html)
+    * [Part 3](http://nicktasios.nl/posts/space-invaders-from-scratch-part-3.html)
+    * [Part 4](http://nicktasios.nl/posts/space-invaders-from-scratch-part-4.html)
+    * [Part 5](http://nicktasios.nl/posts/space-invaders-from-scratch-part-5.html)
+* Text Adventure `video` `abandoned`
+    * [Episode 1](https://www.youtube.com/watch?v=7dYKhiruW1M)
     * [Episode 2](https://www.youtube.com/watch?v=7dYKhiruW1M)
 * [Tic-tac-toe Game in C with SDL](https://www.youtube.com/watch?v=gCVMkKgs3uQ) `video`
 * Video Game Physics Tutorial
@@ -141,8 +162,17 @@ A list of tutorials that work towards the making of small to large projects in C
 * [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
 * [Build Your Own Lisp](https://www.buildyourownlisp.com/) `book`
 * [Compiler Design in C](https://holub.com/goodies/compiler/compilerDesignInC.pdf) `book`
-* [Crafting Interpreters](https://www.craftinginterpreters.com/) `book` *Chapters 14-30*
+* [Crafting Interpreters](https://www.craftinginterpreters.com/) `book` (Chapters 14 - 30)
 * [Let's Build a Compiler: A C & x86 version](https://github.com/lotabout/Let-s-build-a-compiler)
+* Let's Write a Compiler
+    * [Part 1: Introduction, selecting a language, and doing some planning](https://briancallahan.net/blog/20210814.html)
+    * [Part 2: A lexer](https://briancallahan.net/blog/20210815.html)
+    * [Part 3: A parser](https://briancallahan.net/blog/20210816.html)
+    * [Part 4: Testing](https://briancallahan.net/blog/20210817.html)
+    * [Part 5: A code generator](https://briancallahan.net/blog/20210818.html)
+    * [Part 6: Input and output](https://briancallahan.net/blog/20210819.html)
+    * [Part 7: Arrays](https://briancallahan.net/blog/20210822.html)
+    * [Part 8: Strings, forward references, and conclusion](https://briancallahan.net/blog/20210826.html)
 * Write a C Interpreter
     * [Part 0 - Preface](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/0-Preface.md)
     * [Part 1 - Skeleton](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/1-Skeleton.md)
@@ -153,6 +183,17 @@ A list of tutorials that work towards the making of small to large projects in C
     * [Part 6 - Functions](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/6-Functions.md)
     * [Part 7 - Statements](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/7-Statements.md)
     * [Part 8 - Expressions](https://github.com/lotabout/write-a-C-interpreter/blob/master/tutorial/en/8-Expressions.md)
+* Writing a C Compiler `in-progress`
+    * [Part 1](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
+    * [Part 2](https://norasandler.com/2017/12/05/Write-a-Compiler-2.html)
+    * [Part 3](https://norasandler.com/2017/12/15/Write-a-Compiler-3.html)
+    * [Part 4](https://norasandler.com/2017/12/28/Write-a-Compiler-4.html)
+    * [Part 5](https://norasandler.com/2018/01/08/Write-a-Compiler-5.html)
+    * [Part 6](https://norasandler.com/2018/02/25/Write-a-Compiler-6.html)
+    * [Part 7](https://norasandler.com/2018/03/14/Write-a-Compiler-7.html)
+    * [Part 8](https://norasandler.com/2018/04/10/Write-a-Compiler-8.html)
+    * [Part 9](https://norasandler.com/2018/06/27/Write-a-Compiler-9.html)
+    * [Part 10](https://norasandler.com/2019/02/18/Write-a-Compiler-10.html)
 * [Writing a Simple Garbage Collector in C](http://maplant.com/gc.html)
 * Scheme from Scratch
     * [Part 1 - Introduction](http://peter.michaux.ca/articles/scheme-from-scratch-introduction)
