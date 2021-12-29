@@ -16,6 +16,7 @@ A list of tutorials that work towards the making of a complete project in C.
 
 * [Bitwise](https://github.com/pervognsen/bitwise) `video` `abandoned`
 * [Emulator 101](http://emulator101.com/)
+* [Gameboy Emulator Development](https://www.youtube.com/playlist?list=PLVxiWMqQvhg_yk4qy2cSC3457wZJga_e5) `video`
 * [Implementing a Virtual Machine in C](https://felixangell.com/blogs/virtual-machine-in-c)
 * Writing a Chip 8 Emulator `in-progress`
    * [Part 1](http://craigthomas.ca/blog/2014/06/21/writing-a-chip-8-emulator-part-1/)
@@ -125,6 +126,7 @@ A list of tutorials that work towards the making of a complete project in C.
 * [Build Your Own Shell](https://github.com/tokenrove/build-your-own-shell)
 * [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io/)
 * [Hack the Virtual Memory](https://blog.holbertonschool.com/hack-virtual-memory-stack-registers-assembly-code/)
+* [How to Write a Bootloader from Scratch](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch)
 * [How to Create an OS from Scratch](https://github.com/cfenollosa/os-tutorial) `in-progress`
 * [Learning KVM - implement your own kernel](https://david942j.blogspot.com/2018/10/note-learning-kvm-implement-your-own.html)
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) `in-progress`
@@ -147,6 +149,7 @@ A list of tutorials that work towards the making of a complete project in C.
 * [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 * [Write a Simple Memory Allocator](https://arjunsreedharan.org/post/148675821737/write-a-simple-memory-allocator)
 * [Write a System Call](https://brennan.io/2016/11/14/kernel-dev-ep3/)
+* [Writing a "bare metal" operating system for Raspberry Pi 4](https://github.com/isometimes/rpi4-osdev)
 * [Writing a FUSE Filesystem](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
 * [Writing a shell in C](https://danishpraka.sh/2018/01/15/write-a-shell.html)
 * Writing a Unix Shell
