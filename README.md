@@ -53,29 +53,21 @@ A list of tutorials that work towards the making of a complete project in C.
 
 ## Game Development
 
-* [Astroids Clone](https://gtk.dashgl.com/Astroids/)
-* [Brickout Clone](https://gtk.dashgl.com/Brickout/)
-* [Chess Engine In C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) `video`
-* [Coding A Sudoku Solver in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) `video`
-* [Coding a Rogue/Nethack RPG in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) `video`
-* [Create a Game Loop using C and SDL](https://www.udemy.com/course/game-loop-c-sdl/) `course`
-* Embedded Game Programming
-    * [Part 0: Motivation](https://austinmorlan.com/posts/embedded_game_programming_0/) 
-    * [Part 1: Build System](https://austinmorlan.com/posts/embedded_game_programming_1/)
-    * [Part 2: Input](https://austinmorlan.com/posts/embedded_game_programming_2/)
-    * [Part 3: Display](https://austinmorlan.com/posts/embedded_game_programming_3/)
-    * [Part 4: Storage](https://austinmorlan.com/posts/embedded_game_programming_4/)
-    * [Part 5: Battery](https://austinmorlan.com/posts/embedded_game_programming_5/)
-    * [Part 6: Audio](https://austinmorlan.com/posts/embedded_game_programming_6/)
-    * [Part 7: Text](https://austinmorlan.com/posts/embedded_game_programming_7/)
-    * [Part 7: Tile System](https://austinmorlan.com/posts/embedded_game_programming_8/)
-* [Handmade Hero](https://handmadehero.org/) `video` `in-progress` (C/C++)
-* [Hangman](https://www.youtube.com/playlist?list=PLZ1QII7yudbd2ZHYSEWrSddsvD5PW_r5O) `video`
+### Game Consoles
 * [How to Program an NES game in C](https://nesdoug.com/)
-* [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html) `in-progress`
-* [Implementing Solitaire in C](https://jborza.com/post/2020-07-12-solitaire-cli/)
-* [Invaders Clone](https://gtk.dashgl.com/Invaders/)
 * [Learn How To Develop Your Own GameBoy Games](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo) `video` `in-progress`
+* [Writing a Game Boy Advance Game](https://www.reinterpretcast.com/writing-a-game-boy-advance-game)
+
+### OpenGL (GLFW/GLEW)
+* Space Invaders from Scratch (C/C++)
+    * [Part 1](http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html)
+    * [Part 2](http://nicktasios.nl/posts/space-invaders-from-scratch-part-2.html)
+    * [Part 3](http://nicktasios.nl/posts/space-invaders-from-scratch-part-3.html)
+    * [Part 4](http://nicktasios.nl/posts/space-invaders-from-scratch-part-4.html)
+    * [Part 5](http://nicktasios.nl/posts/space-invaders-from-scratch-part-5.html)
+
+### SDL (Simple DirectMedia Layer)
+* [Create a Game Loop using C and SDL](https://www.udemy.com/course/game-loop-c-sdl/) `course`
 * [Learn Video Game Programming in C](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) `video`
 * [Let's Make: Dangerous Dave](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) `video`
 * Let's make Tetris with SDL `video` `abandoned`
@@ -83,9 +75,6 @@ A list of tutorials that work towards the making of a complete project in C.
     * [Part 2 - Creating a Window](https://www.youtube.com/watch?v=INhX23hkcM8)
     * [Part 3 - Creating the Renderer](https://www.youtube.com/watch?v=DIOVD-wEzDU)
     * [Part 4 - Drawing a board](https://www.youtube.com/watch?v=m69YNzFgfkw)
-* [Making a game in C from scratch](https://www.youtube.com/playlist?list=PL7Ej6SUky1357r-Lqf_nogZWHssXP-hvH) `video`
-* [Making a Video Game from Scratch in C](https://www.youtube.com/playlist?list=PLlaINRtydtNWuRfd4Ra3KeD6L9FP_tDE7) `video` `in-progress`
-* [On Tetris and Reimplementation](https://brennan.io/2015/06/12/tetris-reimplementation/)
 * SDL2 Game Tutorials
     * [Creating a 2D platformer](https://www.parallelrealities.co.uk/tutorials/#ppp)
     * [Creating a 2D shoot 'em up](https://www.parallelrealities.co.uk/tutorials/#shooter)
@@ -100,25 +89,47 @@ A list of tutorials that work towards the making of a complete project in C.
     * [Creating a Lookup System](https://www.parallelrealities.co.uk/tutorials/#lookups)
     * [Creating a In-game Achievement System](https://www.parallelrealities.co.uk/tutorials/#medals)
 * [SDL 2 Isometric Game Tutorial](https://www.youtube.com/playlist?list=PL6Ikt4l3NbVjb7WR-eTgjOBMNCn7f3u7x) `video`
+* [Tic-tac-toe Game in C with SDL](https://www.youtube.com/watch?v=gCVMkKgs3uQ) `video`
+* [Write The Old-School Fire Effect and Bare-Metal Programming in Assembly and C](https://www.hanshq.net/fire.html)
+* [Writing 2D Games in C using SDL](https://www.youtube.com/watch?v=yFLa3ln16w0) `video`
+
+### Text-Based (CLI/ASCII)
+* [Chess Engine In C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) `video`
+* [Coding A Sudoku Solver in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) `video`
+* [Coding a Rogue/Nethack RPG in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) `video`
+* [Hangman](https://www.youtube.com/playlist?list=PLZ1QII7yudbd2ZHYSEWrSddsvD5PW_r5O) `video`
+* [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html) `in-progress`
+* [Implementing Solitaire in C](https://jborza.com/post/2020-07-12-solitaire-cli/)
+* [On Tetris and Reimplementation](https://brennan.io/2015/06/12/tetris-reimplementation/)
 * [Simple Tic Tac Toe in C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc7_ZgXA-gIXmME41Rs2GP5) `video`
-* Space Invaders from Scratch (C/C++)
-    * [Part 1](http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html)
-    * [Part 2](http://nicktasios.nl/posts/space-invaders-from-scratch-part-2.html)
-    * [Part 3](http://nicktasios.nl/posts/space-invaders-from-scratch-part-3.html)
-    * [Part 4](http://nicktasios.nl/posts/space-invaders-from-scratch-part-4.html)
-    * [Part 5](http://nicktasios.nl/posts/space-invaders-from-scratch-part-5.html)
 * Text Adventure `video` `abandoned`
     * [Episode 1](https://www.youtube.com/watch?v=7dYKhiruW1M)
     * [Episode 2](https://www.youtube.com/watch?v=7dYKhiruW1M)
-* [Tic-tac-toe Game in C with SDL](https://www.youtube.com/watch?v=gCVMkKgs3uQ) `video`
+
+### Win32 (Windows API)
+* [Handmade Hero](https://handmadehero.org/) `video` `in-progress` (C/C++)
+* [Making a game in C from scratch](https://www.youtube.com/playlist?list=PL7Ej6SUky1357r-Lqf_nogZWHssXP-hvH) `video`
+* [Making a Video Game from Scratch in C](https://www.youtube.com/playlist?list=PLlaINRtydtNWuRfd4Ra3KeD6L9FP_tDE7) `video` `in-progress`
+
+### Other
+* [Astroids Clone](https://gtk.dashgl.com/Astroids/)
+* [Brickout Clone](https://gtk.dashgl.com/Brickout/)
+* Embedded Game Programming
+    * [Part 0: Motivation](https://austinmorlan.com/posts/embedded_game_programming_0/) 
+    * [Part 1: Build System](https://austinmorlan.com/posts/embedded_game_programming_1/)
+    * [Part 2: Input](https://austinmorlan.com/posts/embedded_game_programming_2/)
+    * [Part 3: Display](https://austinmorlan.com/posts/embedded_game_programming_3/)
+    * [Part 4: Storage](https://austinmorlan.com/posts/embedded_game_programming_4/)
+    * [Part 5: Battery](https://austinmorlan.com/posts/embedded_game_programming_5/)
+    * [Part 6: Audio](https://austinmorlan.com/posts/embedded_game_programming_6/)
+    * [Part 7: Text](https://austinmorlan.com/posts/embedded_game_programming_7/)
+    * [Part 7: Tile System](https://austinmorlan.com/posts/embedded_game_programming_8/)
+* [Invaders Clone](https://gtk.dashgl.com/Invaders/)
 * Video Game Physics Tutorial
     * [Part I: An Introduction to Rigid Body Dynamics](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)
     * [Part II: Collision Detection for Solid Objects](https://www.toptal.com/game/video-game-physics-part-ii-collision-detection-for-solid-objects)
     * [Part III: Constrained Rigid Body Simulation](https://www.toptal.com/game/video-game-physics-part-iii-constrained-rigid-body-simulation)
 * [Write Othello Game from scratch in C](https://www.hanshq.net/othello.html)
-* [Write The Old-School Fire Effect and Bare-Metal Programming in Assembly and C](https://www.hanshq.net/fire.html)
-* [Writing 2D Games in C using SDL](https://www.youtube.com/watch?v=yFLa3ln16w0) `video`
-* [Writing a Game Boy Advance Game](https://www.reinterpretcast.com/writing-a-game-boy-advance-game)
 
 ## Operating Systems
 
