@@ -14,18 +14,23 @@ A list of tutorials that work towards the making of a complete project in C.
 
 ## Computer Architecture
 
-* [Bitwise](https://github.com/pervognsen/bitwise) `video` `abandoned`
+#### Emulator
 * [Emulator 101](http://emulator101.com/)
 * [Gameboy Emulator Development](https://www.youtube.com/playlist?list=PLVxiWMqQvhg_yk4qy2cSC3457wZJga_e5) `video`
-* [Implementing a Virtual Machine in C](https://felixangell.com/blogs/virtual-machine-in-c)
 * Writing a Chip 8 Emulator `in-progress`
-   * [Part 1](http://craigthomas.ca/blog/2014/06/21/writing-a-chip-8-emulator-part-1/)
-   * [Part 2](http://craigthomas.ca/blog/2014/07/17/writing-a-chip-8-emulator-part-2/)
-   * [Part 3](http://craigthomas.ca/blog/2015/02/19/writing-a-chip-8-emulator-draw-command-part-3/)
-   * [Part 4](http://craigthomas.ca/blog/2017/10/15/writing-a-chip-8-emulator-built-in-font-set-part-4/)
-   * [Part 5](http://craigthomas.ca/blog/2018/09/07/writing-a-chip-8-emulator-instruction-set-part-5/)
+    * [Part 1](http://craigthomas.ca/blog/2014/06/21/writing-a-chip-8-emulator-part-1/)
+    * [Part 2](http://craigthomas.ca/blog/2014/07/17/writing-a-chip-8-emulator-part-2/)
+    * [Part 3](http://craigthomas.ca/blog/2015/02/19/writing-a-chip-8-emulator-draw-command-part-3/)
+    * [Part 4](http://craigthomas.ca/blog/2017/10/15/writing-a-chip-8-emulator-built-in-font-set-part-4/)
+    * [Part 5](http://craigthomas.ca/blog/2018/09/07/writing-a-chip-8-emulator-instruction-set-part-5/)
 * [Writing a Game Boy emulator](https://cturt.github.io/cinoop.html)
+    
+#### Virtual Machine
+* [Implementing a Virtual Machine in C](https://felixangell.com/blogs/virtual-machine-in-c)
 * [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
+    
+#### Other
+* [Bitwise](https://github.com/pervognsen/bitwise) `video` `abandoned`
 
 ## Computer Networking
 
@@ -53,12 +58,12 @@ A list of tutorials that work towards the making of a complete project in C.
 
 ## Game Development
 
-### Game Consoles
+#### Game Consoles
 * [How to Program an NES game in C](https://nesdoug.com/)
 * [Learn How To Develop Your Own GameBoy Games](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo) `video` `in-progress`
 * [Writing a Game Boy Advance Game](https://www.reinterpretcast.com/writing-a-game-boy-advance-game)
 
-### OpenGL (GLFW/GLEW)
+#### OpenGL (GLFW/GLEW)
 * Space Invaders from Scratch (C/C++)
     * [Part 1](http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html)
     * [Part 2](http://nicktasios.nl/posts/space-invaders-from-scratch-part-2.html)
@@ -66,7 +71,7 @@ A list of tutorials that work towards the making of a complete project in C.
     * [Part 4](http://nicktasios.nl/posts/space-invaders-from-scratch-part-4.html)
     * [Part 5](http://nicktasios.nl/posts/space-invaders-from-scratch-part-5.html)
 
-### SDL (Simple DirectMedia Layer)
+#### SDL (Simple DirectMedia Layer)
 * [Create a Game Loop using C and SDL](https://www.udemy.com/course/game-loop-c-sdl/) `course`
 * [Learn Video Game Programming in C](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) `video`
 * [Let's Make: Dangerous Dave](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) `video`
@@ -93,10 +98,11 @@ A list of tutorials that work towards the making of a complete project in C.
 * [Write The Old-School Fire Effect and Bare-Metal Programming in Assembly and C](https://www.hanshq.net/fire.html)
 * [Writing 2D Games in C using SDL](https://www.youtube.com/watch?v=yFLa3ln16w0) `video`
 
-### Text-Based (CLI/ASCII)
+#### Text-Based (CLI/ASCII/ncruses)
 * [Chess Engine In C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) `video`
 * [Coding A Sudoku Solver in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) `video`
 * [Coding a Rogue/Nethack RPG in C](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) `video`
+* [Games programming from the ground up with C](https://laurencescotford.com/games-programming-from-the-ground-up-with-c-index/)
 * [Hangman](https://www.youtube.com/playlist?list=PLZ1QII7yudbd2ZHYSEWrSddsvD5PW_r5O) `video`
 * [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html) `in-progress`
 * [Implementing Solitaire in C](https://jborza.com/post/2020-07-12-solitaire-cli/)
@@ -105,13 +111,14 @@ A list of tutorials that work towards the making of a complete project in C.
 * Text Adventure `video` `abandoned`
     * [Episode 1](https://www.youtube.com/watch?v=7dYKhiruW1M)
     * [Episode 2](https://www.youtube.com/watch?v=7dYKhiruW1M)
+* [The C Roguelike Tutorial Series](https://dev.to/ignaoya/series/13852)
 
-### Win32 (Windows API)
+#### Win32 (Windows API)
 * [Handmade Hero](https://handmadehero.org/) `video` `in-progress` (C/C++)
 * [Making a game in C from scratch](https://www.youtube.com/playlist?list=PL7Ej6SUky1357r-Lqf_nogZWHssXP-hvH) `video`
 * [Making a Video Game from Scratch in C](https://www.youtube.com/playlist?list=PLlaINRtydtNWuRfd4Ra3KeD6L9FP_tDE7) `video` `in-progress`
 
-### Other
+#### Other
 * [Astroids Clone](https://gtk.dashgl.com/Astroids/)
 * [Brickout Clone](https://gtk.dashgl.com/Brickout/)
 * Embedded Game Programming
